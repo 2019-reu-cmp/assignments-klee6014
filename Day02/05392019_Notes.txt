@@ -1,0 +1,6 @@
+Additional Notes 05302019
+
+lists = can edit indexes and add (a.append(3)?)
+tuple = set length and set values and orders '(1,2,3)'
+sets = unordered, unindexed 'set([1,2,3])'
+dictionary = {key1:value, key2:value2, key3:value3} # keys can't repeat or change, they are stand-ins for the locations of the values
